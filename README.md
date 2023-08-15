@@ -3,7 +3,7 @@ A simple League of legends aplication for skill cast management, save your skill
 
 ![imagen](https://github.com/marcossol/IziBinding/assets/44753150/74cbe738-7620-446a-a322-3ffb0e433e6b)
 # Download
-https://github.com/marcossol/IziBinding/releases/tag/IziBinding_1.0
+https://github.com/Nehalem95/IziBinding/releases/tag/IziBinding_1.0
 # Instructions:
 1. Select any champion you want to configure
 2. Configure it and press "save", Rammus will show you that everything is OK
