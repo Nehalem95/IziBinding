@@ -1,9 +1,8 @@
 # IziBinding
 A simple League of legends aplication for skill cast management, save your skill preferences for every champion and they will be applied on your game before the match start!
-
-![imagen](https://github.com/marcossol/IziBinding/assets/44753150/74cbe738-7620-446a-a322-3ffb0e433e6b)
+![Captura](https://github.com/Nehalem95/IziBinding/assets/44753150/d597c40f-d853-4879-8058-d068dc74dd5f)
 # Download
-https://github.com/Nehalem95/IziBinding/releases/tag/IziBinding_1.1
+https://github.com/Nehalem95/IziBinding/releases/tag/IziBinding_1.2
 # Instructions:
 1. Select any champion you want to configure
 2. Configure it and press "save", Rammus will show you that everything is OK
